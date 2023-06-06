@@ -1,0 +1,11 @@
+# Ignore all .txt files
+*.txt
+
+# Ignore all .csv files
+*.csv
+
+# Ignore all .tar files
+*.tar
+
+# Ignore the training_set folder
+/training_set/
